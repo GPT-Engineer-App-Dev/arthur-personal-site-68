@@ -21,6 +21,9 @@ const Index = () => {
           <Link href="/legacy" fontWeight="bold">
             Legacy
           </Link>
+          <Link href="/biography" fontWeight="bold">
+            Biography
+          </Link>
         </HStack>
       </VStack>
     </Box>
