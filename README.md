@@ -1,13 +1,10 @@
-# arthur-personal-site
+# arthur-personal-site-68
 
-Create a homepage for a personal website about Chester Arthur. Include:
-
-- A large portrait photo of Chester Arthur 
-- A heading with his name
-- A brief 1-2 sentence bio
-- Menu links to other pages (but don't create those pages yet)
-
-Use a classic, elegant design style fitting for a U.S. president from the 1800s.
+Create a new page titled "About the Authors" for the website about Chester A. Arthur. This page should include:
+- A brief introduction to the authors
+- Their qualifications and background
+- Contact information
+Use placeholders for the actual content, which can be filled in later.
 
 ## Collaborate with GPT Engineer
 
@@ -26,8 +23,8 @@ REPLACE_WITH_TECH_STACK_POINTS
 ## Setup
 
 ```sh
-git clone https://github.com/GPT-Engineer-App-Dev/arthur-personal-site.git
-cd arthur-personal-site
+git clone https://github.com/GPT-Engineer-App-Dev/arthur-personal-site-68.git
+cd arthur-personal-site-68
 npm i
 ```
 
